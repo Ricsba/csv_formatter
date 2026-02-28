@@ -1,4 +1,4 @@
-# CSV Data Cleaner for SKUs
+# CSV Formatter
 
 **Python script to validate and clean product CSV files for Byrd Dashboard, reducing errors during CSV upload.**
 
